@@ -1,4 +1,4 @@
 # Pig-Game
 A simple small game I made for practicing JS
 
-<img src = "https://giphy.com/gifs/aubmZkXNS0ur2JAPMX"/>
+<img src = "https://media.giphy.com/media/aubmZkXNS0ur2JAPMX/giphy-downsized-large.gif"/>
